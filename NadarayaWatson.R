@@ -1,4 +1,3 @@
-  h=.3
   smoot=function(x,y,h){
     predi=NULL
     for(i in 1:length(x)){ sum1=0; sum2=0
